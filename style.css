@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+header {
+  color: blue;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: silver;
+  padding: 40px;
+  margin: 20px;
+}
+p {
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+ul {
+  font-family: "Yeseva one";
+}
+ol {
+  font-family: "Yeseva one";
+}
+footer {
+  font-family: "Yaseva one";
+}
