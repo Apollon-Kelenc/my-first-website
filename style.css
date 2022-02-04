@@ -6,7 +6,7 @@ header {
   box-sizing: border-box;
 }
 body {
-  background-color: silver;
+  background-color: rgb(255, 255, 255);
   padding: 40px;
   margin: 20px;
 }
@@ -21,5 +21,12 @@ ol {
   font-family: "Yeseva one";
 }
 footer {
-  font-family: "Yaseva one";
+  font-family: "Yeseva one";
+}
+.bild_mit_text {
+  background-color: rgb(243, 240, 235);
+  border-radius: 5px;
+  max-width: 600px;
+  padding: 20px;
+  border: 2px solid rgb(184, 178, 178);
 }
