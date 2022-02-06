@@ -4,23 +4,25 @@
   box-sizing: border-box;
 }
 body {
-  background-color: rgb(253, 250, 246);
+  background-color: aliceblue;
   padding: 40px;
   margin: 20px;
   background-image: url(https://cdn.pixabay.com/photo/2020/02/24/18/05/background-4876990_1280.jpg);
 }
 ul {
   font-family: "Yeseva one";
+  font-size: 16px;
 }
 ol {
   font-family: "Yeseva one";
+  font-size: 16px;
 }
 footer {
   font-family: "Yeseva one";
 }
 
 .bild_mit_text {
-  background-color: rgb(199, 224, 223);
+  background-color: aliceblue;
   border-radius: 5px;
   max-width: 600px;
   padding: 20px;
@@ -42,7 +44,9 @@ footer {
   border: 2px solid rgb(17, 17, 17);
 }
 .backround {
+  font-family: "Caveat", cursive;
   margin-top: 20px;
+  color: rgb(0, 0, 0);
 }
 .sidebar {
   font-family: "Caveat", cursive;
@@ -53,7 +57,7 @@ footer {
   position: fixed;
   top: 0;
   right: 0;
-  padding-top: 40px;
+  padding-top: 10px;
   background-color: lightblue;
 }
 
@@ -72,7 +76,7 @@ footer {
 }
 .logos {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .GitHub {
   margin: 7px;
@@ -96,5 +100,5 @@ footer {
   border-radius: 200px;
 }
 .contact {
-  margin: 115px 0px 0px 20px;
+  font-size: 16px;
 }
