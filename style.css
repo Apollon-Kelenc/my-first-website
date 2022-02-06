@@ -11,9 +11,11 @@ body {
 }
 ul {
   font-family: "Yeseva one";
+  font-size: 18px;
 }
 ol {
   font-family: "Yeseva one";
+  font-size: 18px;
 }
 footer {
   font-family: "Yeseva one";
@@ -42,7 +44,9 @@ footer {
   border: 2px solid rgb(17, 17, 17);
 }
 .backround {
+  font-family: "Caveat", cursive;
   margin-top: 20px;
+  color: rgb(0, 0, 0);
 }
 .sidebar {
   font-family: "Caveat", cursive;
@@ -53,7 +57,7 @@ footer {
   position: fixed;
   top: 0;
   right: 0;
-  padding-top: 40px;
+  padding-top: 10px;
   background-color: lightblue;
 }
 
@@ -72,7 +76,7 @@ footer {
 }
 .logos {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .GitHub {
   margin: 7px;
@@ -96,5 +100,5 @@ footer {
   border-radius: 200px;
 }
 .contact {
-  margin: 115px 0px 0px 20px;
+  font-size: 16px;
 }
