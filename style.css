@@ -63,7 +63,7 @@ footer {
 
 .sidebar div {
   padding: 8px;
-  font-size: 24px;
+  font-size: 30px;
   display: block;
 }
 
@@ -79,26 +79,26 @@ footer {
   flex-direction: column;
 }
 .GitHub {
-  margin: 7px;
-  border: 2px solid black;
+  margin-left: 15px;
+  border: 2px solid rgb(1, 0, 238);
   width: 100px;
   height: 60px;
   border-radius: 200px;
 }
 .LinkedIn {
-  margin: 7px;
-  border: 2px solid black;
+  margin-left: 15px;
+  border: 2px solid rgb(1, 0, 238);
   width: 100px;
   height: 60px;
   border-radius: 200px;
 }
 .vercel {
-  margin: 7px;
-  border: 2px solid black;
+  margin-left: 15px;
+  border: 2px solid rgb(1, 0, 238);
   width: 100px;
   height: 60px;
   border-radius: 200px;
 }
 .contact {
-  font-size: 16px;
+  font-size: 17px;
 }
