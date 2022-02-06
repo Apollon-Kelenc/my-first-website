@@ -44,8 +44,30 @@ footer {
 .backround {
   margin-top: 20px;
 }
+.sidebar {
+  font-family: "Caveat", cursive;
+  height: 580px;
+  width: 150px;
+  border-radius: 10px 0px 10px 10px;
+  border: 2px solid rgb(17, 17, 17);
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding-top: 40px;
+  background-color: lightblue;
+}
+
+.sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
+}
+
+.body-text {
+  margin-right: 150px;
+  font-size: 18px;
+}
 .find_me_on {
-  margin: 0px 0px 0px 10qpx;
   font-size: 18px;
 }
 .logos {
@@ -53,21 +75,21 @@ footer {
   flex-direction: row;
 }
 .GitHub {
-  margin: 8px;
+  margin: 7px;
   border: 2px solid black;
   width: 100px;
   height: 60px;
   border-radius: 200px;
 }
 .LinkedIn {
-  margin: 8px;
+  margin: 7px;
   border: 2px solid black;
   width: 100px;
   height: 60px;
   border-radius: 200px;
 }
 .vercel {
-  margin: 8px;
+  margin: 7px;
   border: 2px solid black;
   width: 100px;
   height: 60px;
