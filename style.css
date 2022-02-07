@@ -57,7 +57,7 @@ footer {
   top: 0;
   right: 0;
   padding-top: 10px;
-  background-color: rgb(138, 243, 234);
+  background-color: rgb(163, 240, 233);
 }
 
 .sidebar div {
@@ -101,5 +101,5 @@ footer {
   border-radius: 200px;
 }
 .contact {
-  font-size: 17px;
+  font-size: 18px;
 }
